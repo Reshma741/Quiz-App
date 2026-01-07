@@ -1,1 +1,8 @@
 This is a React + Vite based MCQ quiz application that presents 20 questions, gives real-time feedback, tracks score, persists progress using localStorage, and uses only React hooks and plain CSS for a smooth, responsive UI
+
+
+
+Steps to Run project
+Clone the project 
+npm install
+npm run dev
